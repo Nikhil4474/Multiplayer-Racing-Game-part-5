@@ -1,4 +1,4 @@
-# C37-SpeedRacer_ReferenceCode
+Multiplayer Car Racing Game
 Current Limit to two players
 
 To test, open same page in two tabs
